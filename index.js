@@ -1,1 +1,0 @@
-alert("Doing JS");
