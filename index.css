@@ -1,5 +1,10 @@
 body {
   background-color: #ecf0f1;
+  color: #34495e;
+}
+
+.btn {
+  cursor: pointer;
 }
 
 h1 {
@@ -8,4 +13,17 @@ h1 {
 
 .js-title {
   text-align: center;
+}
+
+.clicked {
+  color: #7f8c8d;
+}
+
+.form,
+.greetings {
+  display: none;
+}
+
+.showing {
+  display: block;
 }
